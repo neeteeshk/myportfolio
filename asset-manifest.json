@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.88af6c09.chunk.css",
+    "main.js": "/myportfolio/static/js/main.25f5cf10.chunk.js",
+    "main.js.map": "/myportfolio/static/js/main.25f5cf10.chunk.js.map",
+    "runtime-main.js": "/myportfolio/static/js/runtime-main.947b743c.js",
+    "runtime-main.js.map": "/myportfolio/static/js/runtime-main.947b743c.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/myportfolio/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.e932ba59.chunk.js": "/myportfolio/static/js/2.e932ba59.chunk.js",
+    "static/js/2.e932ba59.chunk.js.map": "/myportfolio/static/js/2.e932ba59.chunk.js.map",
+    "static/js/3.3a25458a.chunk.js": "/myportfolio/static/js/3.3a25458a.chunk.js",
+    "static/js/3.3a25458a.chunk.js.map": "/myportfolio/static/js/3.3a25458a.chunk.js.map",
+    "index.html": "/myportfolio/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/myportfolio/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.88af6c09.chunk.css.map": "/myportfolio/static/css/main.88af6c09.chunk.css.map",
+    "static/js/2.e932ba59.chunk.js.LICENSE.txt": "/myportfolio/static/js/2.e932ba59.chunk.js.LICENSE.txt",
+    "static/media/ZS_Logo.c091a357.png": "/myportfolio/static/media/ZS_Logo.c091a357.png",
+    "static/media/about.aee0f771.png": "/myportfolio/static/media/about.aee0f771.png",
+    "static/media/avatar.7f806e40.svg": "/myportfolio/static/media/avatar.7f806e40.svg",
+    "static/media/blog.52102140.png": "/myportfolio/static/media/blog.52102140.png",
+    "static/media/chatify.9373edda.png": "/myportfolio/static/media/chatify.9373edda.png",
+    "static/media/codeEditor.ba945879.png": "/myportfolio/static/media/codeEditor.ba945879.png",
+    "static/media/emotion.e92e314a.jpeg": "/myportfolio/static/media/emotion.e92e314a.jpeg",
+    "static/media/style.css": "/myportfolio/static/media/pre.4410c5ba.svg",
+    "static/media/home-main.359935c3.svg": "/myportfolio/static/media/home-main.359935c3.svg",
+    "static/media/leaf.4c15d6eb.png": "/myportfolio/static/media/leaf.4c15d6eb.png",
+    "static/media/logo.7f0325b8.png": "/myportfolio/static/media/logo.7f0325b8.png",
+    "static/media/resume.d5547906.pdf": "/myportfolio/static/media/resume.d5547906.pdf",
+    "static/media/suicide.b72f1f9f.png": "/myportfolio/static/media/suicide.b72f1f9f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.947b743c.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.e932ba59.chunk.js",
+    "static/css/main.88af6c09.chunk.css",
+    "static/js/main.25f5cf10.chunk.js"
+  ]
+}
