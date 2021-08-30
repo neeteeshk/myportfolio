@@ -546,6 +546,31 @@ html {
   color: white !important;
 }
 
+.contact-section {
+  position: relative !important;
+  padding-top: 80px !important;
+  padding-bottom: 30px !important;
+  color: white !important;
+}
+
+.contact-section input {
+  background-color: transparent;
+}
+
+.contact-section #submitBtn {
+  cursor: pointer;
+        border: 1px solid black;
+        height: 50px;
+        width: 200px;
+        color: white;
+        font-size: 1em;
+        box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6);
+}
+
+.contact-section textarea {
+  background-color: transparent;
+}
+
 .tech-icons {
   font-size: 4.5em !important;
   margin: 15px !important;

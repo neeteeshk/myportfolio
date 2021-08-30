@@ -9,22 +9,24 @@ function Exprience() {
       <Col xs={4} md={2} className="tech-icons">
         <SiAmazon />
         <a
+          style={{ textDecoration: "none" }}
           target="_blank"
           rel="noopener noreferrer"
           href="https://www.linkedin.com/company/amazon/"
         >
-            <h5>Amazon</h5>
+          <h5>Amazon</h5>
         </a>
         <h5>Software Development Engineering Intern</h5>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <img src={logo} className="img-fluid logo" alt="ZS"></img>
         <a
+          style={{ textDecoration: "none" }}
           target="_blank"
           rel="noopener noreferrer"
           href="https://www.linkedin.com/company/zs-associates/"
         >
-            <h5>ZS Associates</h5>
+          <h5>ZS Associates</h5>
         </a>
         <h5>Software Development Engineer Application</h5>
       </Col>

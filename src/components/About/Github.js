@@ -1,7 +1,6 @@
 import React from "react";
 import GitHubCalendar from "react-github-calendar";
 import { Row } from "react-bootstrap";
-import { SiLeetcode } from "react-icons/si";
 
 function Github() {
   const colourTheme = {
