@@ -1,5 +1,7 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import { Col, Row } from "react-bootstrap";
+import Codeforces from "codeforces-api";
+import axios from "axios";
 import {
   SiLeetcode,
   SiCodeforces,
@@ -8,6 +10,19 @@ import {
 } from "react-icons/si";
 
 function CodingProfile() {
+  const uri = "https://codeforces.com/api/user.rating?handle=neeteesh205";
+  const [codeforcesRating, upadteCodeforcesRating] = useState(0);
+  useEffect(() => {
+    axios
+      .get(uri)
+      .then((res) => {
+        upadteCodeforcesRating(res.data.result[res.data.result.length-1].newRating);
+      })
+      .catch((err) => {
+        console.log(err);
+      });
+  }, []);
+
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <a
@@ -30,6 +45,7 @@ function CodingProfile() {
         <Col xs={4} md={2} className="tech-icons">
           <SiCodeforces />
           <h5>Codeforces</h5>
+          <h5>Rating : {codeforcesRating}</h5>
         </Col>
       </a>
       <a
