@@ -1,7 +1,7 @@
 
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://neeteeshk.github.io/myportfolio/" target="_blank">neeteeshk.github.io/myportfolio/</a>
+  <a href="https://neeteesh.herokuapp.com/" target="_blank">neeteesh.herokuapp.com</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
@@ -21,18 +21,18 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/neeteeshk/myportfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://neeteesh.herokuapp.com/">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/neeteeshk/myportfolio/issues">Request Feature</a>
+    <a href="https://neeteesh.herokuapp.com/">Request Feature</a>
 </h3>
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [neeteeshk](https://github.com/neeteeshk/myportfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [neeteeshk](https://neeteesh.herokuapp.com/). Thanks!
 
 ## Built With
 
-My personal portfolio <a href="https://neeteeshk.github.io/myportfolio/" target="_blank">neeteeshk.github.io/myportfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://neeteesh.herokuapp.com/" target="_blank">neeteesh.herokuapp.com</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
