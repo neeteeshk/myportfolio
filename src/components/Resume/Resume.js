@@ -25,7 +25,9 @@ function Resume() {
               date="July 2021 - Present"
               organization="ZS Associates  |  "
               content={[
-                "I am part of Platform Foundation team who is making solution for Authentication and Authorization by replacing old solution.",
+                "Working with Platform Foundation team",
+                "Working on Authentication and Authorization IDM project using OAuth 2.0 and Okta.",
+                "Tools – Java, OAuth 2.0",
               ]}
             />
             <Resumecontent
@@ -33,9 +35,11 @@ function Resume() {
               date="January 2021 - July 2021"
               organization="Amazon  |  "
               content={[
-                "Worked with Tax Platform Services Team of Amazon Hyderabad to help onboarding new countries for tax calculation and invoice generation and designing various internal tools.",
-                "Onboarded a new country on Amazon’s Invoice Generation platform. Used Java & Spring Framework, Dynamo DB and Athena",
-                "Designed & implemented an end-to-end tool to get some list on UI in pagination format and in downloadable CSV format. Used Lambda, Dynamo Db, S3, Athena and various other AWS service. Used Java & Spring Framework for implementing backend APIs and used React and Typescript for implementing User Interface.",
+                "Worked with Tax Platform Services Team of Amazon Hyderabad.",
+                "Help onboarding new countries for tax calculation and invoice generation.",
+                "Onboarded a new country on Amazon’s Invoice Generation platform. ",
+                "Designed & implemented an end-to-end tool to get some list on UI in pagination format and in downloadable CSV format by querying in backend.",
+                "Tools-- Lambda, Dynamo Db, S3, Athena and various other AWS service. Used Java & Spring Framework for implementing backend APIs and used React and Typescript for implementing User Interface.",
               ]}
             />
           </Col>
@@ -59,6 +63,15 @@ function Resume() {
               organization="Jawahar Navodaya Vidyalaya Khagaria  |  "
               date="2013 - 2014"
               content={["CGPA: 9.8"]}
+            />
+            <Resumecontent
+              title="Achievements"
+              content={[
+                "Highest Rating of 1912 on Codechef",
+                "Ranked 98/10000 in hackerearth october'2017 circuit contest",
+                "National Means Cum Merit Scholarship Exam - Among top performers who got scholarship",
+                "Got 99 percentile in Jee Mains and Qualified for Jee Advanced",
+              ]}
             />
           </Col>
         </Row>
